@@ -1,11 +1,12 @@
-# IT Support Lab
+## 🧾 Scenario: Screen Resolution Changed to Lower Setting
 
-This repository contains troubleshooting scenarios and checklists for practicing real-world IT support tasks.
+### 🖥️ Simulated Issue
+The screen resolution on the Windows VM was unintentionally changed to a lower setting, resulting in a blurry and unclear display.
 
-## Included Reports
-- Scenario 1: No Internet Access
-- Scenario 2: DNS Failure with Internet Access
-- DNS Troubleshooting Checklist
+### 🛠️ Troubleshooting Steps
+1. Opened **Display Settings** from the desktop.
+2. Identified that the resolution was set below the recommended level.
+3. Changed the resolution back to the **recommended setting**.
 
-## Author
-Nokuthula Ngcongo – IT Support Candidate at CAPACITI
+### ✅ Result
+The screen returned to normal clarity, confirming that the resolution adjustment resolved the issue.
